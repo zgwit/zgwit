@@ -6,4 +6,8 @@
 公司提出“以物联网取代工人”的革命性理念，将“老师傅”的技术和经验转化成自动控制算法，再结合具体软硬件实现物联网控制系统。这样不仅可以节约人力，降低能耗，还可以避免人为事故带来不必要的损失。系统运行过程中会记录各项历史数据，通过定期分析和挖掘，可以反向优化算法，进而获得更大的效益。
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zgwit&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zgwit)
+
 ![微信](https://zgwit.com/wx.jpg)
