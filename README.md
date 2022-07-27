@@ -27,15 +27,9 @@
 ## 微博
 ![微博](https://iot-master.com/weibo.jpg)
 
-## B站
+## 其他
 [bilibili](https://space.bilibili.com/535784148)
-
-## 西瓜视频
 [西瓜视频](https://www.ixigua.com/home/3589284676766008)
-
-## 知乎
 [知乎](https://www.zhihu.com/people/honey-dog)
-
-## CSDN
 [CSDN](https://blog.csdn.net/rudern)
 
