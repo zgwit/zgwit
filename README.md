@@ -12,20 +12,14 @@
 
 # 自媒体-杰神说说
 
-## 抖音
-![抖音](https://iot-master.com/douyin.jpg)
 
-## 快手
-![快手](https://iot-master.com/kuaishou.jpg)
+| 抖音 | 快手 |
+|----|----|
+| ![抖音](https://iot-master.com/douyin.jpg) | ![快手](https://iot-master.com/kuaishou.jpg) |
 
-## 硬声
-![硬声](https://iot-master.com/yingsheng.jpg)
-
-## 微信视频号
-![微信视频号](https://iot-master.com/wxvideo.jpg)
-
-## 微博
-![微博](https://iot-master.com/weibo.jpg)
+| 微信视频号 | 微博 |
+|----|----|
+| ![微信视频号](https://iot-master.com/wxvideo.jpg) | ![微博](https://iot-master.com/weibo.jpg) |
 
 ## 其他
 [bilibili](https://space.bilibili.com/535784148)
